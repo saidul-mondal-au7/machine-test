@@ -6,6 +6,28 @@
   height: 40vmin;
   pointer-events: none;
 }
+.button {
+  color: green;
+}
+.box {
+  margin: 150px auto 30px;
+  position: relative;
+  width: 250px;
+  background: yellowgreen;
+  border-radius: 15px;
+  padding: 160px 50px 30px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0.1);
+}
+.clearOtp {
+  color: red;
+  margin: 8px;
+}
+
+.Otp {
+  height: 40px;
+  width: 40px;
+  margin: 8px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

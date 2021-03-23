@@ -1,0 +1,4 @@
+1. Implement OTP screen on desktop.
+2.  Number of boxes can be dynamic.
+3. Focus should not be on styling. The boxes should be in a row. That is the only styling requirement.
+It should work like any standard OTP field. The user enters the number in 1 field and the focus moves onto the other field.
